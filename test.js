@@ -1,2 +1,2 @@
-//output text to terminal
+//output
 console.log("hi")
